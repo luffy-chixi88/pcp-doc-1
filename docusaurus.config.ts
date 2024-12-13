@@ -10,11 +10,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-<<<<<<< HEAD
   url: 'https://pcp-doc.vercel.com',
-=======
-  url: 'https://pcp-doc.vercel.app',
->>>>>>> c36030144fe0ab3139b0a4f54ae90e7f6c8a78ab
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -83,18 +79,6 @@ const config: Config = {
             },
           ],
         },
-<<<<<<< HEAD
-=======
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-          ],
-        },
->>>>>>> c36030144fe0ab3139b0a4f54ae90e7f6c8a78ab
       ],
       copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
     },
